@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfStabilizingDroneController", "SelfStabilizingDroneController\SelfStabilizingDroneController.csproj", "{5C53542C-F23C-4992-B011-9854654E49FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C53542C-F23C-4992-B011-9854654E49FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C53542C-F23C-4992-B011-9854654E49FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C53542C-F23C-4992-B011-9854654E49FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C53542C-F23C-4992-B011-9854654E49FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FE811F1-E3F4-425D-A479-B579ABC16156}
+	EndGlobalSection
+EndGlobal
